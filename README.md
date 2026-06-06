@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&width=520&duration=3000&repeat=false&lines=print(%22Hello%2C%20World%22);&center=true&size=27" />
+  <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&color=D67ECD&center=true&lines=Hello+world!"/>
 </div>
 <!--
 **s1y4x1/s1y4x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
